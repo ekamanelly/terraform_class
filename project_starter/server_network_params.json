@@ -1,0 +1,26 @@
+[
+    {
+        "ParameterKey": "VPCCIDR",
+        "ParameterValue": "10.0.0.0/16"
+      }, 
+      {
+        "ParameterKey": "PrivateSubnetCIDR1",
+        "ParameterValue": "10.0.0.0/24"
+      },
+      {
+        "ParameterKey": "PrivateSubnetCIDR2",
+        "ParameterValue": "10.0.1.0/24"
+      },
+      {
+        "ParameterKey": "loadBalanceCIDR1",
+        "ParameterValue": "10.0.2.0/24"
+      },
+      {
+        "ParameterKey": "loadBalanceCIDR2",
+        "ParameterValue": "10.0.3.0/24"
+      },
+      {
+        "ParameterKey": "NatGateWayCIDR",
+        "ParameterValue": "10.0.4.0/24"
+      }
+  ]
